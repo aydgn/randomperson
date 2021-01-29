@@ -1,7 +1,7 @@
-import { isim } from "isim.js";
-import { soy } from "soy.js";
-import { meslek } from "meslek.js"
-import { sehir } from "sehir.js"
+import { isim } from "/isim.js";
+import { soy } from "/soy.js";
+import { meslek } from "/meslek.js"
+import { sehir } from "/sehir.js"
 
 const nameOutput = document.querySelector(".nameOutput");
 const jobOutput = document.querySelector(".jobOutput");
